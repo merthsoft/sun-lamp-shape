@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Sun Lamps!</name>
+	<author>merthsoft</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Merthsoft.DesignatorShapes.SunLamps</packageId>
+	<description>Adds Sun Lamps to the drawing palette.
+
+Art by Halno.</description>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Commands/Smol/sunlamp_filled</modIconPath>
+</ModMetaData>
