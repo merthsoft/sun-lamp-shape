@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DrawStyleDef>
+    <defName>SunLamp</defName>
+    <label>sun lamp</label>
+    <uiIconPath>UI/Commands/Smol/sunlamp_filled</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.SunLamp.Filled</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>SunLampOutline</defName>
+    <label>sun lamp outline</label>
+    <uiIconPath>UI/Commands/Smol/sunlamp_outline</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.SunLamp.Outline</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+</Defs>
